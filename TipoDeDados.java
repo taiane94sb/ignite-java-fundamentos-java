@@ -3,7 +3,7 @@
  * public = Tipo de acesso da classe
  * class = Tipo da classe
  */
-public class HelloWorld {
+public class TipoDeDados {
     // Todo conteúdo deverá ser inserido aqui dentro da classe
     public static void main(String[] args) {
         /**
